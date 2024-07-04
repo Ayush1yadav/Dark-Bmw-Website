@@ -1,0 +1,393 @@
+.prisection{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    font-family:Helvetica;
+    font-weight: 400;
+}
+.section1{
+    background-image: url(Assets/BMW\ i5.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 100px;
+}
+.section1 ul{
+    display: flex;
+}
+.section1 ul li:hover{
+    border: 2px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: black;
+    background-color: rgba(0, 0, 0, 0);
+    color: black;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.div1{
+    display: flex;
+}
+.div2{
+    border-right: 0px;
+    border-left: 0px;
+    border-top: 0px;
+    border-bottom: 2px;
+    border-color: black;
+    border-style: solid;
+    padding-left: 280px;
+    color: black;
+}
+.div3 h1{
+    color: black;
+    font-size: 30px;
+    margin-left: 20px;
+}
+.div3 h2{
+    color: #067cf3;
+    font-size: 80px;
+    margin-left: 20px;
+}
+.div3 p{
+    color: white;
+    font-size: 25px;
+    margin-left: 20px;
+}
+.div3 button{
+    background-color: #067cf3;
+    color: white;
+    margin-left: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 0px;
+    border-radius: 5px;
+}
+.div3 button:hover{
+    background-color: white;
+    color: black;
+    transition: all ease 0.5s;
+}
+.section2{
+    background-image: url(Assets/BMW\ ix.png);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 20px;
+    margin-top: 50px;
+}
+.section2 div h1{
+    color: black;
+    font-size: 25px;
+    margin-left: 20px;
+}
+.section2 div h2{
+    color: #067cf3;
+    font-size: 80px;
+    margin-left: 20px;
+}
+.section2 div p{
+    color: black;
+    font-size: 25px;
+    margin-left: 20px;
+}
+.section2 div button{
+    background-color: #067cf3;
+    color: white;
+    margin-left: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 5px;
+    border: 0px;
+}
+.section2 div button:hover{
+    background-color: white;
+    color: black;
+    transition: all ease 0.5s;
+}
+.section3{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.section3 h1{
+    font-size: 20px;
+}
+.section3 h2{
+    font-size: 60px;
+    margin-top: -10px;
+}
+.section3div{
+    display: flex;
+    margin-left: 200px;
+}
+.section3div2:hover{
+border: 2px;
+border-radius: 20px;
+border-style: solid;
+border-color: #067cf3;
+padding: 20px;
+}
+.section3div2 h{
+    font-size: 25px;
+}
+.section3div2 button{
+    background-color: #067cf3;
+    color: white;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+    border: 0px;
+    margin-top: 10px;
+}
+.section3div2 button:hover{
+    background-color: white;
+    color: black;
+    transition: all ease 0.5s;
+}
+.section3div3 h{
+    font-size: 25px;
+}
+.section3div3:hover{
+    border: 2px;
+    border-radius: 20px;
+    border-style: solid;
+    border-color: #067cf3;
+    padding: 20px;
+    }
+.section3div3 button{
+    background-color: #067cf3;
+    color: white;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+    border: 0px;
+    margin-top: 10px;
+}
+.section3div3 button:hover{
+    background-color: white;
+    color: black;
+    transition: all ease 0.5s;
+}
+.section3div4 h{
+    font-size: 25px;
+}
+.section3div4:hover{
+    border: 2px;
+    border-radius: 20px;
+    border-style: solid;
+    border-color: #067cf3;
+    padding: 20px;
+    }
+.section3div4 button{
+    background-color: #067cf3;
+    color: white;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+    border: 0px;
+    margin-top: 10px;
+}
+
+.section3div4 button:hover{
+    background-color: white;
+    color: black;
+    transition: all ease 0.5s;
+}
+.section4{
+    background-image: url(Assets/i7.png);
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    padding: 20px;
+    background-repeat: no-repeat;
+}
+.section4 div h1{
+    color: black;
+    font-size: 35px;
+    margin-left: 20px;
+}
+.section4 div h2{
+    color: white;
+    font-size: 50px;
+    margin-left: 20px;
+}
+.section4 div p{
+    color: black;
+    font-size: 35px;
+    margin-left: 20px;
+}
+.section4 div button{
+    background-color: #067df300;
+    color: black;
+    border: 2px;
+    border-radius: 15px;
+    border-style: solid;
+    border-color: black;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 20px;
+}
+.section4 div button:hover{
+    background-color: #067cf3;
+    color: white;
+    border: 0px;
+}
+.section5{
+    padding: 20px;
+    background-image: url(Assets/THE\ 7.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    margin-top: 50px;
+}
+.section5 h1{
+    color: white;
+    font-size: 40px;
+    margin-left: 20px;
+}
+.section5 h2{
+    color: white;
+    font-size: 55px;
+    margin-left: 20px;
+}
+.section5 button{
+    background-color: #067df300;
+    color: white;
+    border: 2px;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: white;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 20px;
+}
+.section5 button:hover{
+    background-color: #067cf3;
+    color: white;
+    border: 0pc;
+    transition: all ease 0.5s;
+}
+.section6{
+    padding: 20px;
+    margin-top: 50px;
+    display: flex;
+}
+.section6 div p1{
+    margin-left: 20px;
+    font-size: 20px;
+}
+.section6 div h{
+    margin-left: 20px;
+    font-size: 45px;
+    color: #067cf3;
+}
+.section6 div p2{
+    font-size: 20px;
+    margin-left: 20px;
+}
+.section6 div button{
+    background-color: #067df300;
+    color: white;
+    border: 2px;
+    border-radius: 5px;
+    border-color: white;
+    border-style: solid;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 20px;
+}
+.section6 div button:hover{
+    background-color: white;
+    color: black;
+    border: 0px;
+}
+.section7{
+    padding: 20px;
+    margin-top: 50px;
+    display: flex;
+}
+.section7 div p1{
+    margin-left: 20px;
+    font-size: 20px;
+}
+.section7 div h{
+    margin-left: 20px;
+    font-size: 45px;
+    color: #067cf3;
+}
+.section7 div p2{
+    font-size: 20px;
+    margin-left: 20px;
+}
+.section7 div button{
+    background-color: #067df300;
+    color: white;
+    border: 2px;
+    border-radius: 5px;
+    border-color: white;
+    border-style: solid;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 20px;
+}
+.section7 div button:hover{
+    background-color: white;
+    color: black;
+    border: 0px;
+}
+.section8{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.section8 div{
+    text-align: center;
+    margin-top: 45px;
+}
+.section8 div h{
+    margin-left: 35px;
+    font-size: 35px;
+    color: #067cf3;
+}
+.section8 div h:hover{
+    border: 2px;
+    border-color: white;
+    border-style: solid;
+}
+.section8 div ul li:hover{
+    font-size: 20px;
+    margin-top: 25px;
+    border: 2px;
+    border-color: white;
+    border-style: solid;
+    padding: 20px;
+}
+
